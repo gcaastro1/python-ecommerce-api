@@ -1,4 +1,4 @@
-# Kenzie Commerce - Grupo 12
+# E-Commerce Python API
 
 ## Instalação dos pacotes:
 
